@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 from app.api.iqsmart_common import resolve_embed, _resolve_fileslug
 DOMAINS = [
-    'https://multimovies.beer',
+    'https://multimovies.garden',
     'https://multimovies.motorcycles',
     'https://multimovies.makeup',
     'https://multimovies.autos',
